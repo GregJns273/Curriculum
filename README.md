@@ -17,4 +17,10 @@ FRONT-END
 - [ ] Odin Project jQuery Basics
 - [ ] Odin Project JavaScript and jQuery Project
 - [ ] FreeCodeCamp Basic Algorithm Scripting
-- [ ] 
+- [ ] FreeCodeCamp JSON API's and AJAX
+- [ ] FreeCodeCamp Intermediate Front-End Development Projects
+- [ ] FreeCodeCamp Intermediate Algorithm Scripting
+- [ ] FreeCodeCamp Advanced Algorithm Scriping
+- [ ] FreeCodeCamp Advanced Front-End Development Projects
+- [ ] Odin Project Additional Information 
+- [ ] Odin Project Tying it all Together
