@@ -5,7 +5,7 @@ FRONT-END
 - [x] FreeCodeCamp HTML5/CSS
 - [x] FreeCodeCamp Responsive Design with Bootstrap
 - [x] FreeCodeCamp Gear up for Success
-- [ ] Odin Project HTML and CSS Basics
+- [x] Odin Project HTML and CSS Basics
 - [ ] Codecademy Intro to Git
 - [ ] Odin Project Git Basics
 - [ ] FreeCodeCamp jQuery
