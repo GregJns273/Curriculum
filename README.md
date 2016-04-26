@@ -1,5 +1,5 @@
 # Curriculum
-Here I have a curriculum that combines FreeCodeCamp and Odin Project. Lessons will be done in order presented.
+Here I have a curriculum that combines FreeCodeCamp and Odin Project. Lessons will be done in order presented. After I've completed the course, I'll mark it here.
 
 FRONT-END
 - [x] FreeCodeCamp HTML5/CSS
