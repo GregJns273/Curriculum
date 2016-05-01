@@ -9,12 +9,12 @@ FRONT-END
 - [x] Codecademy Intro to Git
 - [x] Odin Project Git Basics
 - [ ] FreeCodeCamp jQuery
-- [ ] FreeCodeCamp Basic Front-End Development Projects
 - [ ] Odin Project HTML/CSS Project
-- [ ] FreeCodeCamp Basic JavaScript
-- [ ] FreeCodeCamp Object Oriented and functional programming
+- [ ] FreeCodeCamp Basic Front-End Development Projects
 - [ ] Odin Project JavaScript Basics
+- [ ] FreeCodeCamp Basic JavaScript
 - [ ] Odin Project jQuery Basics
+- [ ] FreeCodeCamp Object Oriented and functional programming
 - [ ] Odin Project JavaScript and jQuery Project
 - [ ] FreeCodeCamp Basic Algorithm Scripting
 - [ ] FreeCodeCamp JSON API's and AJAX
