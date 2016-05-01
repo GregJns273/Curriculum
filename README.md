@@ -6,7 +6,7 @@ FRONT-END
 - [x] FreeCodeCamp Responsive Design with Bootstrap
 - [x] FreeCodeCamp Gear up for Success
 - [x] Odin Project HTML and CSS Basics
-- [ ] Codecademy Intro to Git
+- [x] Codecademy Intro to Git
 - [x] Odin Project Git Basics
 - [ ] FreeCodeCamp jQuery
 - [ ] FreeCodeCamp Basic Front-End Development Projects
