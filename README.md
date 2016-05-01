@@ -8,7 +8,7 @@ FRONT-END
 - [x] Odin Project HTML and CSS Basics
 - [x] Codecademy Intro to Git
 - [x] Odin Project Git Basics
-- [ ] FreeCodeCamp jQuery
+- [x] FreeCodeCamp jQuery
 - [ ] Odin Project HTML/CSS Project
 - [ ] FreeCodeCamp Basic Front-End Development Projects
 - [ ] Odin Project JavaScript Basics
