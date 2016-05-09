@@ -11,6 +11,7 @@ FRONT-END
 - [x] FreeCodeCamp jQuery
 - [ ] Odin Project HTML/CSS Project
 - [ ] FreeCodeCamp Basic Front-End Development Projects
+- [ ] CS50: Introduction to Computer Science
 - [ ] Odin Project JavaScript Basics
 - [ ] FreeCodeCamp Basic JavaScript
 - [ ] Odin Project jQuery Basics
